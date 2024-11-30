@@ -34,7 +34,7 @@ public class Literal {
 
         // --num and num-- or ++num and num++ will behave different in extracting the value.
 
-        int num4 = 10
+        int num4 = 10;
         // For example here 
         int res = num4++ ; // First it will fetch the value of the num4 and res will be the value and then assign the +1 
         // this will give res = 10 
