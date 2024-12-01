@@ -1,4 +1,5 @@
 public class Demo{
+    int Brand = 100;
     public static void main(String args[]){
         // If else statement
         int x = 10;
